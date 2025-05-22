@@ -1,0 +1,2 @@
+# BNBChainTestnet
+Automating Chainlink Faucet
